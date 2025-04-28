@@ -24,8 +24,11 @@ Java: Linguagem utilizada para o desenvolvimento do sistema.
 ## 📥 Como Rodar o projeto
 
 git clone https://github.com/Denise-Dev1/conversor-moeda.git
+
 cd conversor-moeda
+
 javac src/*.java
+
 java -cp src Main
 
 ---
@@ -33,7 +36,9 @@ java -cp src Main
 ## Estrutura do Código
 
 O projeto está dividido em duas classes principais:
+
 Conversor: Classe responsável pela lógica de conversão dos valores entre moedas.
+
 Main: Classe principal onde o usuário interage com o sistema através de um menu exibido no console.
 
 ---
@@ -41,9 +46,19 @@ Main: Classe principal onde o usuário interage com o sistema através de um men
 ## Exemplo de Uso 
 
 Converter para Dólar (USD): Ao escolher a opção "1", o sistema solicitará o valor em reais e realizará a conversão para dólar, exibindo o valor convertido.
+
 Converter para Euro (EUR): Ao escolher a opção "2", o sistema solicitará o valor em reais e realizará a conversão para euro, exibindo o valor convertido.
+
 Converter para Libra Esterlina (GBP): Ao escolher a opção "3", o sistema solicitará o valor em reais e realizará a conversão para libra esterlina, exibindo o valor convertido.
+
 Sair do Sistema: Ao escolher a opção "4", o programa será finalizado com uma mensagem de agradecimento.
+
+
+
+## Imagem de Exemplo
+
+![ExemplodeSaida](https://github.com/user-attachments/assets/3fbba5e1-cb61-4c28-85f0-fb0565d9de63)
+
 
 
 
