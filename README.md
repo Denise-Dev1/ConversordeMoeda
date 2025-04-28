@@ -1,4 +1,4 @@
-# 📋 Sistema de Cadastro de Usuários
+#  Conversor de Moeda em Java
 
 Este projeto é um conversor de moeda simples desenvolvido em Java. Ele permite ao usuário converter valores de Reais (BRL) para Dólar (USD), Euro (EUR) e Libra Esterlina (GBP) diretamente pelo console.
 
