@@ -11,13 +11,13 @@ Converter para Euro (EUR): O usuário pode informar um valor em reais e converte
 Converter para Libra Esterlina (GBP): O usuário pode informar um valor em reais e converter para libra.
 Sair do Sistema: O usuário pode encerrar o programa a qualquer momento.
 
---
+---
 
 ## Tecnologia
 
 Java: Linguagem utilizada para o desenvolvimento do sistema.
 
---
+---
 
 
 
@@ -28,7 +28,7 @@ cd conversor-moeda
 javac src/*.java
 java -cp src Main
 
---
+---
 
 ## Estrutura do Código
 
@@ -36,7 +36,7 @@ O projeto está dividido em duas classes principais:
 Conversor: Classe responsável pela lógica de conversão dos valores entre moedas.
 Main: Classe principal onde o usuário interage com o sistema através de um menu exibido no console.
 
---
+---
 
 ## Exemplo de Uso 
 
